@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Frontend Development",
+    "description": "I create modern, responsive websites using pure HTML, CSS, and JavaScript. My focus is on clean design, fast loading, and smooth user experience without relying on heavy frameworks.",
+    "button_label": "🎨 Hire Me"
+  },
+  {
+    "name": "Backend Development",
+    "description": "I build custom backend systems with lightweight technologies, developing secure and reliable APIs and handling server-side logic tailored to each project.",
+    "button_label": "⚙️ Get Started"
+  },
+  {
+    "name": "WhatsApp Bot Development",
+    "description": "I develop advanced WhatsApp bots with handler files, offering smart automation, custom commands, and admin tools to make communication easier and more powerful.",
+    "button_label": "💬 Message Me"
+  },
+  {
+    "name": "Full Stack Development",
+    "description": "I deliver complete web solutions combining frontend and backend development without unnecessary complexity, focusing on stability and efficiency.",
+    "button_label": "🚀 Order Now"
+  },
+  {
+    "name": "Cybersecurity & App Protection",
+    "description": "I apply practical security practices to protect websites and bots from common threats, ensuring data privacy and safe operations.",
+    "button_label": "🛡️ Secure It"
+  },
+  {
+    "name": "Complete Project Development",
+    "description": "I handle full project workflows from planning and design to development and launch, providing reliable and maintainable solutions.",
+    "button_label": "✨ Start Now"
+  }
+]

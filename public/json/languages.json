@@ -1,0 +1,39 @@
+[
+  {
+    "name": "JavaScript",
+    "percentage": 100
+  },
+  {
+    "name": "Python",
+    "percentage": 50
+  },
+  {
+    "name": "HTML & CSS",
+    "percentage": 100
+  },
+  {
+    "name": "Java",
+    "percentage": 45
+  },
+  {
+    "name": "Node.js)",
+    "percentage": 100
+  },
+  {
+    "name": "Hacking",
+    "percentage": 88
+  },
+  {
+    "name": "Express.js",
+    "percentage": 95 
+  },
+  {
+    "name": "Whatsapp bots",
+    "percentage": 100 
+  },
+  {
+    "name": "Web designer",
+    "percentage": 100 
+  }
+]
+
