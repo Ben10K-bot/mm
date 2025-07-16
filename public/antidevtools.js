@@ -1,4 +1,4 @@
-document.addEventListener('contextmenu', (e) => e.preventDefault());
+/*document.addEventListener('contextmenu', (e) => e.preventDefault());
 
 document.addEventListener('keydown', (e) => {
     if (
@@ -20,4 +20,4 @@ setInterval(() => {
     ) {
         window.location.href = "/";
     }
-}, 500);
+}, 500);*/
